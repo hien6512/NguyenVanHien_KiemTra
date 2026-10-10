@@ -1,4 +1,0 @@
-# Cấu hình Streamlit cho giao diện App_DuDoanTieuDuong.py
-# Địa chỉ giao diện: http://localhost:8501/NguyenVanHien
-[server]
-baseUrlPath = "NguyenVanHien"
